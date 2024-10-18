@@ -14,10 +14,6 @@
 
 &led_strip {
     chain-length = <35>;
-
-    // Enable RGB effects
-    zmk,rgb-effect = "rainbow";
-    zmk,rgb-speed = <3>;
 };
 
 &left_encoder {
